@@ -1,0 +1,1269 @@
+<div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/1" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Anatomy_1.png" alt="ANATOMY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           ANATOMY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/3" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/BIOCHEMISTRY_1.png" alt="BIOCHEMISTRY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           BIOCHEMISTRY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/32" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Cardiology-blue-icon.png" alt="CARDIOLOGY "  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           CARDIOLOGY       
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/4" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Community_Medicine_2.png" alt="COMMUNITY MEDICINE"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           COMMUNITY MEDICINE      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/46" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Cardiology-blue-icon.png" alt="CTVS"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           CTVS      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/6" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Dentistry.png" alt="DENTISTRY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           DENTISTRY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/11" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Dermatology_2.png" alt="DERMATOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           DERMATOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/38" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Endocrinology.png" alt="ENDOCRINOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           ENDOCRINOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/23" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/ENT_1.png" alt="ENT"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           ENT      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/22" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/FSM.png" alt="FMT"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           FMT      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/18" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/go.png" alt="G & O"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           G & O      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/9" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/General_Medicine.png" alt="GENERAL MEDICINE"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           GENERAL MEDICINE      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/14" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/General_Surgery.png" alt="GENERAL SURGERY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           GENERAL SURGERY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/48" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Geriatric.png" alt="GERIATRIC MEDICINE"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           GERIATRIC MEDICINE      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/36" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Cardiology-blue-icon.png" alt="IHBT"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           IHBT      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/29" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/hermatologuy.png" alt="IHTM"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           IHTM      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/47" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Medical_Gastroenterology.png" alt="MEDICAL GASTROENTEROLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           MEDICAL GASTROENTEROLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/28" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Oncology.png" alt="MEDICAL ONCOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           MEDICAL ONCOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/7" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/MICROBIOLOGY.png" alt="MICROBIOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           MICROBIOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/50" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Nefro.jpg" alt="NEPHROLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           NEPHROLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/39" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Cardiology-blue-icon.png" alt="NEURO MEDICINE"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           NEURO MEDICINE      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/26" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/NEUROSURGERY.png" alt="NEUROSURGERY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           NEUROSURGERY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/31" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/img_319841.png" alt="NUCLEAR MEDICINE"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           NUCLEAR MEDICINE      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/35" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Onco-Pathology.png" alt="ONCO-PATHOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           ONCO-PATHOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/16" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Ophthalmology.png" alt="OPHTHALMOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           OPHTHALMOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/15" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Orthopaedics_1.png" alt="ORTHOPAEDICS"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           ORTHOPAEDICS      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/5" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Pathology_1.png" alt="PATHOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PATHOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/44" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Pediatric_Surgery.png" alt="PEDIATRIC SURGERY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PEDIATRIC SURGERY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/13" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Pediatrics.png" alt="PEDIATRICS"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PEDIATRICS      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/8" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/PHARMACOLOGY.png" alt="PHARMACOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PHARMACOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/19" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Physical_Medicine.png" alt="PHYSICAL MEDICINE & REHABILITATION"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PHYSICAL MEDICINE & REHABILITATION      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/2" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/PHYSIOLOGY_1.png" alt="PHYSIOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PHYSIOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/40" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Plastic_Surgery.png" alt="PLASTIC SURGERY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PLASTIC SURGERY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/12" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Psychiatry.png" alt="PSYCHIATRY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           PSYCHIATRY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/30" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/dep_icon_department-of-radio-diagnosis.png" alt="RADIODIAGNOSIS"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           RADIODIAGNOSIS      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/20" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Radiotherapy.png" alt="RADIOTHERAPY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           RADIOTHERAPY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/33" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Respiratory-Medicine.jpg" alt="RESPIRATORY MEDICINE"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           RESPIRATORY MEDICINE      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/42" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Surgical_Gastroenterology.png" alt="SURGICAL GASTROENTEROLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           SURGICAL GASTROENTEROLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/34" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Surgical_Oncology.png" alt="SURGICAL ONCOLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           SURGICAL ONCOLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/49" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/UROLOGY-AND-UROSURGERY.jpg" alt="URO SURGERY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           URO SURGERY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>
+
+                	
+                        <div class="item" >
+
+                            <a href="https://www.medicalcollegekolkata.in/Department/details/27" >
+
+                            <div class="imgTitle">
+
+                            	
+
+                                
+                            	<img src="https://www.medicalcollegekolkata.in/Download_file/department/Urology.png" alt="UROLOGY"  />
+
+                                
+                               
+
+                            </div>
+
+                            
+
+                            <div style="color:#0099FF;text-align:center;">
+
+                           UROLOGY      
+
+                            </div></a> 
+
+                            <!--<p>...</p>-->
+
+                         
+
+                        </div>

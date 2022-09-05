@@ -1,0 +1,243 @@
+<section class="section-padding parallax">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-md-12">
+
+					<div class="section-title text-left">
+
+						<h2>About Us</h2>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="row">
+
+				<div class="col-sm-8">
+
+					<div class="about-text">
+
+						<div>
+
+							<p class="text-justify">Medical College and Hospital, Kolkata, commonly referred to as&nbsp;Calcutta Medical College,<br />
+formerly&nbsp;Medical College, Bengal, is a medical school and hospital in the city of&nbsp;Kolkata&nbsp;in<br />
+the state of&nbsp;West Bengal,&nbsp;India.</p>
+
+						
+
+						</div>
+
+						<a href="https://www.medicalcollegekolkata.in/main/page/about_us" class="btn btn-primary waves-effect waves-dark">Read More</a>
+
+					</div>
+
+				</div>
+
+				<div class="col-sm-4">
+
+					<div class="about-image">
+
+						<img src="https://www.medicalcollegekolkata.in/Download_file/home_page_cms/about1.jpg" alt="About Images" class="img-fluid">
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</section>
+
+    
+
+ 
+
+    <div class="about home-about">
+
+				<div class="container">
+
+						
+
+						<div class="row">
+
+							<div class="col-md-6">
+
+								<!-- Heading and para -->
+
+								<div class="block-heading-two">
+
+									<h5 class="text-uppercase"><i class="fa fa-bullhorn"></i> <span style="color:#DB7D72">Announcements</span></h5>
+
+								</div>
+
+                                <div class="col-sm-12 marqueeBox" style="overflow-y:auto;">
+
+                                
+
+								<!--<marquee behavior="scroll" scrollamount="4" direction="up" onmouseover="this.stop();" onmouseout="this.start();">-->
+
+
+
+					
+                    <span style="color:#999; font-style:italic; font-size:1em;font-weight:bold;">29-08-2022-<img src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;"/>13-11-2022-Ranked 43 according to NIRF Medical college ranking 2022</span> <a target="_blank" href="https://www.medicalcollegekolkata.in/Download_file/file_doc/Certificate.pdf" rel="noopener noreferrer"><img src="https://www.medicalcollegekolkata.in/images/url_link.png" style="width:20px;" alt="Link Attachment" /> </a><!--<button type="button" class="btn btn-primary btn-sm">More</button> -->
+
+                    <br><br />
+
+
+
+					
+                    <span style="color:#999; font-style:italic; font-size:1em;font-weight:bold;">08-11-2021-Walk-In-Interview for engagement of one Co-Ordinator & One Data Entry operator for HUB(CoE) & SPOKE at MCH, Kolkata</span> <a target="_blank" href="https://www.medicalcollegekolkata.in/Download_file/file_doc/Walk-In-Interview_for_engagement_of_one_Co-Ordinator-One_Data_Entry_operator_for_HUB.pdf" rel="noopener noreferrer"><img src="https://www.medicalcollegekolkata.in/images/url_link.png" style="width:20px;" alt="Link Attachment" /> </a><!--<button type="button" class="btn btn-primary btn-sm">More</button> -->
+
+                    <br><br />
+
+
+
+					
+                    <span style="color:#999; font-style:italic; font-size:1em;font-weight:bold;">08-01-2020-National Institutional Ranking Framework, 2020</span> <a target="_blank" href="https://www.medicalcollegekolkata.in/Download_file/file_doc/NIRF_2020.pdf" rel="noopener noreferrer"><img src="https://www.medicalcollegekolkata.in/images/url_link.png" style="width:20px;" alt="Link Attachment" /> </a><!--<button type="button" class="btn btn-primary btn-sm">More</button> -->
+
+                    <br><br />
+
+
+
+					
+                    <span style="color:#999; font-style:italic; font-size:1em;font-weight:bold;">09-04-2019-Flow Chart of PG admission</span> <a target="_blank" href="https://www.medicalcollegekolkata.in/Download_file/file_doc/flow_chart_of_PG_admission_at_MCH.pdf" rel="noopener noreferrer"><img src="https://www.medicalcollegekolkata.in/images/url_link.png" style="width:20px;" alt="Link Attachment" /> </a><!--<button type="button" class="btn btn-primary btn-sm">More</button> -->
+
+                    <br><br />
+
+
+
+					
+                    <span style="color:#999; font-style:italic; font-size:1em;font-weight:bold;">09-04-2019-PG Admission fees</span> <a target="_blank" href="https://www.medicalcollegekolkata.in/Download_file/file_doc/Admission_fees.pdf" rel="noopener noreferrer"><img src="https://www.medicalcollegekolkata.in/images/url_link.png" style="width:20px;" alt="Link Attachment" /> </a><!--<button type="button" class="btn btn-primary btn-sm">More</button> -->
+
+                    <br><br />
+
+
+
+					
+                    <span style="color:#999; font-style:italic; font-size:1em;font-weight:bold;">29-03-2019-Schedule PG 2019</span> <a target="_blank" href="https://www.medicalcollegekolkata.in/Download_file/file_doc/Schedule_PG_2019_-_Final.pdf" rel="noopener noreferrer"><img src="https://www.medicalcollegekolkata.in/images/url_link.png" style="width:20px;" alt="Link Attachment" /> </a><!--<button type="button" class="btn btn-primary btn-sm">More</button> -->
+
+                    <br><br />
+
+
+
+					
+                    
+
+				<!--</marquee>-->
+
+                </div>
+
+							</div>
+
+						
+
+							
+
+							<div class="col-md-6">
+
+								<div class="info-box">
+
+								  <h5 class="text-uppercase"><i class="fa fa-user"></i> <span style="color:#DB7D72">Administration</span></h5>
+
+                                  <div class="marqueeBox" style="padding-top:5px">
+
+										<div class="row">
+<div class="col-md-2"><img alt="" src="https://www.medicalcollegekolkata.in/Download_file/file_doc/RAGHUNATHMISRA.jpg" style="width: 50px; height: 60px;" /></div>
+
+<div class="col-md-10">
+<p>Prof. Dr. Raghunath Mishra (Principal),&nbsp;principalmck1835@gmail.com</p>
+</div>
+</div>
+
+<hr />
+<div class="row">
+<div class="col-md-2"><img alt="" src="https://www.medicalcollegekolkata.in/Download_file/file_doc/MSVP.jpg" style="width: 50px; height: 60px;" /></div>
+
+<div class="col-md-10">
+<p>Prof. Sabyasachi Das, MSVP, MCHK</p>
+</div>
+</div>
+
+<hr />
+<div class="row">
+<div class="col-md-2"><img alt="" src="https://www.medicalcollegekolkata.in/Download_file/file_doc/ManabNandy.jpg" style="width: 50px; height: 60px;" /></div>
+
+<div class="col-md-10">
+<p>Prof. Dr. Manab Nandy, Dean of Students Affairs, Medical College, Kolkata, 033-2255-1501(O), 033-2212-3771(F), medicalcollegedean@gmail.com</p>
+</div>
+</div>
+
+                                  </div>
+
+								</div>
+
+							</div>
+
+							
+
+						</div>
+
+						
+
+						 						
+
+						 
+
+						<br>
+
+					 
+
+					  </div>
+
+						
+
+					</div>
+
+
+
+                   
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4">
+				<div class="widget">
+					<h5 class="widgetheading">Our Contact</h5>
+					<address>
+					Medical College Kolkata, 88, College St, College Square, Kolkata, West Bengal 700073</address>
+					<p>
+						<i class="fa fa-phone"></i> (033) 2255 1621 <br>
+						<!--<i class="fa fa-envelope"></i> <a href="mailto:info@medicalcollegekolkata.in" style="color:#fff;">info@medicalcollegekolkata.in</a>-->
+					</p>
+				</div>
+			</div>
+			<div class="col-lg-4">&nbsp;
+			</div>
+			<div class="col-lg-4">
+				<div class="widget"><a href="https://www.medicalcollegekolkata.in/main/page/Anti_Ragging_Committee6e1ba6">
+					<img style="max-width:85%;" src="https://www.medicalcollegekolkata.in/images/antiRagging.jpg" alt="Anti Ragging Committee" class="img-responsive" /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="sub-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 text-center">
+					<div class="copyright">
+						<p>
+							<a href="https://www.medicalcollegekolkata.in/main/page/privacy_policy">Privacy Policy</a> | <span>© Kolkata Medical College 2018 All right reserved. By </span><a href="http://www.albatrossoft.com/" target="_blank">Albatross Software Services Pvt. Ltd.</a>
+						</p>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+</footer>
