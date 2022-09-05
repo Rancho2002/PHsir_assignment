@@ -42,9 +42,18 @@
 
 <body>
 	<div class="loader"></div>
-	<a onclick="topFunction()" id="primyBtn" title="Go to top"><img
-			src="https://www.medicalcollegekolkata.in/images/uparrow.png" style="width:50px;" alt="Go To Top" /></a>
+	<a onclick="topFunction()" id="primyBtn" title="Go to top"><img src="uparrow.png" style="width:50px;"
+			alt="Go To Top" /></a>
 	<!-- header -->
+	<style>
+		@media (max-width:900px) {
+			#primyBtn img {
+				position: absolute;
+				bottom: 55px;
+				right: -20px;
+			}
+		}
+	</style>
 	<div class="topbar fixed-top">
 		<div class="container">
 			<div class="col-md-12">
@@ -59,19 +68,20 @@
 	</div>
 
 	<div class="topbar" style="background-color:#fff; margin-top:33px;">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="col-md-12">
 				<div class="row m-0">
 					<div class="col-sm-2 text-center">
 						<a class="navbar-brand" href="https://www.medicalcollegekolkata.in/"><img src="logo.jpg"
-								alt="PGEC Logo" width="80" class="img-fluid mob" /></a>
+								alt="PGEC Logo" width="85" class="img-fluid mob" /></a>
 					</div>
 					<div class="col-sm-8 text-center">
-						<h2 class="text-uppercase" style="margin-top:20px">RKMGEC, Purulia</h2>
+						<h2 class="text-uppercase" style="margin:20px 0">Ramkrishna Mahato Government Engineering
+							College, Purulia</h2>
 					</div>
 					<div class="col-sm-2 text-center">
 						<img src="https://www.medicalcollegekolkata.in/images/ashoke_logo.png" alt="Ashok Stombha Logo"
-							class="img-fluid mob" />
+							class="img-fluid mob mr-3" style="margin-top: 10px ;" />
 					</div>
 				</div>
 			</div>
@@ -589,16 +599,21 @@
 						Payment link</a>&nbsp;&nbsp;&nbsp;
 					<a href="https://rkmgec.ac.in/index/id/806?linktitle=Notice%20Regarding%20Freeship%202022-23"
 						class="marque_link_text" target="_blank"><img
-							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> Notice Regarding Freeship 2022-23</a>&nbsp;&nbsp;&nbsp;
+							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> Notice Regarding
+						Freeship 2022-23</a>&nbsp;&nbsp;&nbsp;
 					<a href="https://rkmgec.ac.in/index/id/804?linktitle=Spot%20quotation%20for%20supply%20of%20stationary%20items%20for%20college%20campus%20at%20RKMGEC.%20Purulia"
 						class="marque_link_text" target="_blank"><img
-							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" />Spot quotation for supply of stationary items for college campus at RKMGEC. Purulia</a>&nbsp;&nbsp;&nbsp;
+							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" />Spot quotation for
+						supply of stationary items for college campus at RKMGEC. Purulia</a>&nbsp;&nbsp;&nbsp;
 					<a href="https://rkmgec.ac.in/index/id/802?linktitle=Spot%20quotation%20for%20supply%20of%202h.p%20Submersible%20pumpset.%2010mtr%20cable%20and%20one%20control%20panel%20at%20RKMGEC,%20Purulia"
 						class="marque_link_text" target="_blank"><img
-							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> Spot quotation for supply of 2h.p Submersible pumpset. 10mtr cable and one control panel at RKMGEC, Purulia</a>&nbsp;&nbsp;&nbsp;
+							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> Spot quotation
+						for supply of 2h.p Submersible pumpset. 10mtr cable and one control panel at RKMGEC,
+						Purulia</a>&nbsp;&nbsp;&nbsp;
 					<a href="https://rkmgec.ac.in/index/id/803?linktitle=Spot%20quotation%20for%20supply%20of%20Student%20ID%20Card%20at%20RKMGEC,%20Purulia"
 						class="marque_link_text" target="_blank"><img
-							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> Spot quotation for supply of Student ID Card at RKMGEC, Purulia</a>&nbsp;&nbsp;&nbsp;
+							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> Spot quotation
+						for supply of Student ID Card at RKMGEC, Purulia</a>&nbsp;&nbsp;&nbsp;
 					<!-- <a href="https://www.medicalcollegekolkata.in/Download_file/file_doc/CombineApril302022.pdf"
 						class="marque_link_text" target="_blank"><img
 							src="https://www.medicalcollegekolkata.in/images/new.gif" width="40px;" /> College Level
@@ -641,9 +656,17 @@
 							style="width:100%;max-width: 250px;margin:5px 20px 0 0;float:left;" />
 
 						<p class="text-justify"></p>
-						<p>Prof. Dr. Bibek Chakrabarti<br />
-							Principal<br />
+						<p id="prof-text">Prof. Dr. Bibek Chakrabarti,<br />
+							Principal,<br />
 							Ramkrishna Mahato Government Engineering College, Purulia</p>
+						<style>
+							@media (max-width:900px){
+								#prof-text{
+									margin-top: 5px;
+									display: inline-block ;
+								}
+							}
+						</style>
 					</div>
 
 				</div>
@@ -755,8 +778,8 @@
 
 
 
-								<img src="electronics-and-comunication-engineering.jpg"
-									alt="Electronics" style="border-radius: 100%; margin-bottom: 30px;" />
+								<img src="electronics-and-comunication-engineering.jpg" alt="Electronics"
+									style="border-radius: 100%; margin-bottom: 30px;" />
 
 
 
@@ -785,8 +808,8 @@
 
 
 
-								<img src="mechanical engineering.jpg"
-									alt="Mechanical" style="border-radius: 100%; margin-bottom: 30px;" />
+								<img src="mechanical engineering.jpg" alt="Mechanical"
+									style="border-radius: 100%; margin-bottom: 30px;" />
 
 
 
@@ -815,8 +838,8 @@
 
 
 
-								<img src="electrical engineering.jpg"
-									alt="Electrical" style="border-radius: 100%; margin-bottom: 30px;" />
+								<img src="electrical engineering.jpg" alt="Electrical"
+									style="border-radius: 100%; margin-bottom: 30px;" />
 
 
 
@@ -845,8 +868,8 @@
 
 
 
-								<img src="civil engineering.jpg"
-									alt="Civil" style="border-radius: 100%; margin-bottom: 30px;" />
+								<img src="civil engineering.jpg" alt="Civil"
+									style="border-radius: 100%; margin-bottom: 30px;" />
 
 
 
@@ -1178,7 +1201,8 @@
 				</div>
 				<div class="col-lg-4">
 					<div class="widget"><a
-							href="https://www.medicalcollegekolkata.in/main/page/Anti_Ragging_Committee6e1ba6">
+							href="https://www.medicalcollegekolkata.in/main/page/Anti_Ragging_Committee6e1ba6"
+							target="_blank">
 							<img style="max-width:85%;"
 								src="https://www.medicalcollegekolkata.in/images/antiRagging.jpg"
 								alt="Anti Ragging Committee" class="img-responsive" /></a>
